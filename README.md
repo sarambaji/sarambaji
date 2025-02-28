@@ -1,4 +1,4 @@
-# About Me:
+# Hi, I'm Sara!
 🎓 MPH in Global Epidemiology | Data Science Certificate<br>🔬 Passionate about data-driven public health solutions<br>📊 Skilled in Python, R, SAS for epidemiological and bioinformatics research<br><br>📫 **Reach me at:**  <br>🔗 [LinkedIn](https://www.linkedin.com/in/sarabaji/) | 📧 [Email](mailto:sara.baji@emory.edu)  
 
 
